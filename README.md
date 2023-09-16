@@ -1,4 +1,4 @@
-# rnn_on_sine_wave
+# Predicting Sine Wave Using RNN
 
 Generating and predicting the future for Sine wave using Recurrent Neural Networks.
 
